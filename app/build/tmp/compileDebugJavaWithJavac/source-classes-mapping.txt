@@ -1,0 +1,26 @@
+mx/tecnm/voaxaca/agenda/db/DbContactos.java
+ mx.tecnm.voaxaca.agenda.db.DbContactos
+mx/tecnm/voaxaca/agenda/entidades/Contactos.java
+ mx.tecnm.voaxaca.agenda.entidades.Contactos
+mx/tecnm/voaxaca/agenda/BuildConfig.java
+ mx.tecnm.voaxaca.agenda.BuildConfig
+mx/tecnm/voaxaca/agenda/db/DbHelper.java
+ mx.tecnm.voaxaca.agenda.db.DbHelper
+mx/tecnm/voaxaca/agenda/adaptadores/ListaContactosAdapter.java
+ mx.tecnm.voaxaca.agenda.adaptadores.ListaContactosAdapter
+ mx.tecnm.voaxaca.agenda.adaptadores.ListaContactosAdapter$ContactoViewHolder
+ mx.tecnm.voaxaca.agenda.adaptadores.ListaContactosAdapter$ContactoViewHolder$1
+mx/tecnm/voaxaca/agenda/MainActivity.java
+ mx.tecnm.voaxaca.agenda.MainActivity
+mx/tecnm/voaxaca/agenda/NuevoActivity.java
+ mx.tecnm.voaxaca.agenda.NuevoActivity
+ mx.tecnm.voaxaca.agenda.NuevoActivity$1
+mx/tecnm/voaxaca/agenda/EditarActivity.java
+ mx.tecnm.voaxaca.agenda.EditarActivity
+ mx.tecnm.voaxaca.agenda.EditarActivity$1
+mx/tecnm/voaxaca/agenda/VerActivity.java
+ mx.tecnm.voaxaca.agenda.VerActivity
+ mx.tecnm.voaxaca.agenda.VerActivity$1
+ mx.tecnm.voaxaca.agenda.VerActivity$2
+ mx.tecnm.voaxaca.agenda.VerActivity$2$1
+ mx.tecnm.voaxaca.agenda.VerActivity$2$2
